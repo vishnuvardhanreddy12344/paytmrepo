@@ -1,4 +1,4 @@
-import { SidebarItem } from "../../components/SidebarItem";
+import { SidebarItem } from "../../components/SideBarItem";
 
 export default function Layout({
   children,
